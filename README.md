@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hirumi Minasha</h1>
-<h3 align="center">A passionate wWeb Developer from Sri Lanka</h3>
+<h3 align="center">A passionate Web Developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning Higher Diploma in Software Engineering
 
